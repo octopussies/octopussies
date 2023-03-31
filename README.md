@@ -1,1 +1,1 @@
-currently learning ethical hacking <3
+taking security+ exam soon !!
