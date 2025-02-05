@@ -1,1 +1,1 @@
-learning nmap
+Self studying cs
